@@ -73,7 +73,7 @@ function NavTabs(props) {
             >
               <Button
                 component={NavLink}
-                to="/reactPortfolio/"
+                to="/reactPortfolio/home"
                 end
                 activeClassName="active"
                 sx={{ p: 2, color: "#fff", backgroundColor: "#343434", borderColor: "#343434!important"}}
@@ -82,7 +82,7 @@ function NavTabs(props) {
               </Button>
               <Button
                 component={NavLink}
-                to="/reactPortfolio/"
+                to="/reactPortfolio/project"
                 end
                 activeClassName="active"
                 sx={{ p: 2, color: "#fff", backgroundColor: "#343434", borderColor: "#343434!important" }}
@@ -91,7 +91,7 @@ function NavTabs(props) {
               </Button>
               <Button
                 component={NavLink}
-                to="/reactPortfolio/"
+                to="/reactPortfolio/blog"
                 end
                 activeClassName="active"
                 sx={{ p: 2, color: "#fff", backgroundColor: "#343434", borderColor: "#343434!important" }}
@@ -100,7 +100,7 @@ function NavTabs(props) {
               </Button>
               <Button
                 component={NavLink}
-                to="/reactPortfolio/"
+                to="/reactPortfolio/contact"
                 end
                 activeClassName="active"
                 sx={{ p: 2, color: "#fff", backgroundColor: "#343434", borderColor: "#343434" }}

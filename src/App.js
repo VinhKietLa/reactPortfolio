@@ -29,17 +29,14 @@ const theme = createTheme({
   },
 });
 
-
-
-
-export default function App() {
+function App() {
   return (
     <ThemeProvider theme={theme}>
-   <Router sx={{fontFamily: 'RobotoMono'}}>
+   <Router>
       <div>
         <NavTabs />
         {/* Wrap Route elements in a Routes component */}
-        <Routes basename="reactPortfolio">
+        <Routes basename="/reactPortfolio">
           {/* Define routes using the Route component to render different page components at different paths */}
           {/* Define a default route that will render the Home component */}
           <Route path="/reactPortfolio/home" element={<Home />} />
@@ -51,3 +48,4 @@ export default function App() {
     </Router>    </ThemeProvider>
   );
 }
+export default  App
