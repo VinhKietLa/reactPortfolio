@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.js": "/reactPortfolio/static/js/main.4d3bc43e.js",
+    "main.js": "/reactPortfolio/static/js/main.4278a515.js",
     "static/media/RobotoMono.woff2": "/reactPortfolio/static/media/RobotoMono.46629fbb7e0921bd296b.woff2",
     "index.html": "/reactPortfolio/index.html",
-    "main.4d3bc43e.js.map": "/reactPortfolio/static/js/main.4d3bc43e.js.map"
+    "main.4278a515.js.map": "/reactPortfolio/static/js/main.4278a515.js.map"
   },
   "entrypoints": [
-    "static/js/main.4d3bc43e.js"
+    "static/js/main.4278a515.js"
   ]
 }
