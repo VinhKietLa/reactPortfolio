@@ -29,23 +29,23 @@ function NavTabs(props) {
     setMobileOpen((prevState) => !prevState);
   };
 
-  const drawer = (
-    <Box onClick={handleDrawerToggle} sx={{ textAlign: "center" }}>
-      <Typography variant="h6" sx={{ my: 2 }}>
-        MUI
-      </Typography>
-      <Divider />
-      <List>
-        {navItems.map((item) => (
-          <ListItem key={item} disablePadding>
-            <ListItemButton sx={{ textAlign: "center" }}>
-              <ListItemText primary={item} />
-            </ListItemButton>
-          </ListItem>
-        ))}
-      </List>
-    </Box>
-  );
+  // const drawer = (
+  //   <Box onClick={handleDrawerToggle} sx={{ textAlign: "center" }}>
+  //     <Typography variant="h6" sx={{ my: 2 }}>
+  //       MUI
+  //     </Typography>
+  //     <Divider />
+  //     <List>
+  //       {navItems.map((item) => (
+  //         <ListItem key={item} disablePadding>
+  //           <ListItemButton sx={{ textAlign: "center" }}>
+  //             <ListItemText primary={item} />
+  //           </ListItemButton>
+  //         </ListItem>
+  //       ))}
+  //     </List>
+  //   </Box>
+  // );
 
   const container =
     window !== undefined ? () => window().document.body : undefined;
@@ -53,7 +53,7 @@ function NavTabs(props) {
   return (
     <>
       <AppBar component="nav">
-        <Toolbar>
+        <Toolbar sx={{ backgroundColor: "#343434" }}>
           <IconButton
             color="inherit"
             aria-label="open drawer"
@@ -73,52 +73,48 @@ function NavTabs(props) {
 
           <Box
             component="nav"
-            sx={{ display: "flex", justifyContent: "space-between" }}
+            sx={{ display: "flex", justifyContent: "space-between", backgroundColor: "#343434!important" }}
           >
             <ButtonGroup
               variant="contained"
               aria-label="outlined primary button group"
+              sx={{backgroundColor: "#343434!important"}}
             >
-              <Button>
-                {" "}
-                <NavLink
-                  to="/reactPortfolio/"
-                  end
-                  activeClassName="active"
-                  sx={{ p: 2 }}
-                >
-                  Home
-                </NavLink>
-              </Button>
-              <Button>
-                {" "}
-                <NavLink
-                  to="/reactPortfolio/project"
-                  activeClassName="active"
-                  sx={{ p: 2 }}
-                >
-                  Project
-                </NavLink>
-              </Button>
-              <Button>
-                {" "}
-                <NavLink
-                  to="/reactPortfolio/blog"
-                  activeClassName="active"
-                  sx={{ p: 2 }}
-                >
-                  Blog
-                </NavLink>
-              </Button>
-              <Button>
-              <NavLink
-                to="/reactPortfolio/contact"
+              <Button
+                component={NavLink}
+                to="/reactPortfolio/"
+                end
                 activeClassName="active"
-                sx={{ p: 2 }}
+                sx={{ p: 2, color: "#fff",backgroundColor: "#343434!important", borderColor: "#343434!important"}}
+              >
+                Home
+              </Button>
+              <Button
+                component={NavLink}
+                to="/reactPortfolio/"
+                end
+                activeClassName="active"
+                sx={{ p: 2, color: "#fff", backgroundColor: "#343434!important", borderColor: "#343434!important" }}
+              >
+                Project
+              </Button>
+              <Button
+                component={NavLink}
+                to="/reactPortfolio/"
+                end
+                activeClassName="active"
+                sx={{ p: 2, color: "#fff", backgroundColor: "#343434!important" , borderColor: "#343434!important"}}
+              >
+                Blog
+              </Button>
+              <Button
+                component={NavLink}
+                to="/reactPortfolio/"
+                end
+                activeClassName="active"
+                sx={{ p: 2, color: "#fff", backgroundColor: "#343434!important", borderColor: "#343434!important" }}
               >
                 Contact
-                
-              </NavLink>
               </Button>
             </ButtonGroup>
           </Box>
