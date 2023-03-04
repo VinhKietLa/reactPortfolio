@@ -22,7 +22,12 @@ function NavTabs() {
           </Container>
           <Container className="px-3">
           <Navbar.Collapse id="basic-navbar-nav" className="justify-content-end navbarCustom text-center">
-            <Nav className="me-aut nav-item">
+            <Nav className="me-aut nav-item px-4">
+              <NavLink to="/reactPortfolio/" end className="nav-link-color">
+                HOME
+              </NavLink>
+              </Nav>
+              <Nav className="me-aut nav-item">
               <NavLink to="/reactPortfolio/project" end className="nav-link-color">
                 PROJECTS
               </NavLink>
