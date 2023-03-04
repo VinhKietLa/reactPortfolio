@@ -31,9 +31,9 @@ function Home() {
           className="mx-auto"
           size="md"
         >
-          <Button className={styled.btn}>LINKEDIN</Button>
-          <Button className={styled.btn}>GITHUB</Button>
-          <Button className={styled.btn}>CV</Button>
+          <Button id={styled.btn}>LINKEDIN</Button>
+          <Button id={styled.btn}>GITHUB</Button>
+          <Button id={styled.btn}>CV</Button>
         </ButtonGroup>
       </Stack>
     </>
