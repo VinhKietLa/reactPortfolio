@@ -1,0 +1,19 @@
+.navbarCustom {
+    align-items: center;
+}
+
+#vkl:hover, .nav-item a:hover {
+    color: #ffe66d;
+    text-decoration: none;
+}
+
+
+.nav-link-color {
+    color:#f7fff7;
+    text-decoration: none;
+}
+
+.navbar-dark .navbar-toggler {
+    color: rgba(255,255,255,.5);
+    border-color: #ffe66d!important;
+}

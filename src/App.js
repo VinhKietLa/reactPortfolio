@@ -5,8 +5,6 @@ import Home from "./components/pages/Home";
 import Project from "./components/pages/Project";
 import Blog from "./components/pages/Blog";
 import Contact from "./components/pages/Contact";
-import me from "./components/assets/pictureofme.png";
-import Stack from "react-bootstrap/Stack";
 
 // import RobotoMonoWoff2 from './fonts/RobotoMono.woff2';
 
