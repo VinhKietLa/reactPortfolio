@@ -33,9 +33,9 @@ function NavTabs(props) {
               </NavLink>
               </Nav>
 
-              <Nav className="me-aut">
+              <Nav className="me-aut nav-item">
 
-              <NavLink to="/reactPortfolio/contact" end className="nav-link-color nav-item">
+              <NavLink to="/reactPortfolio/contact" end className="nav-link-color">
                 Contact
               </NavLink>
             </Nav>
