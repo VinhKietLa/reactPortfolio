@@ -1,35 +1,35 @@
 import React from 'react';
-import { Link, Route, Routes } from 'react-router-dom';
-import Project from './Project';
+import "../../css/ContactPage.css";
+import Container from "react-bootstrap/Container";
+import Button from 'react-bootstrap/Button';
+import Col from'react-bootstrap/Col';
+import Row from'react-bootstrap/Row';
+
 
 function Contact(props) {
   return (
-    <div>
-      <h1>Contact Page</h1>
-      <p>
-        Integer cursus bibendum sem non pretium. Vestibulum in aliquet sem, quis
-        molestie urna. Aliquam semper ultrices varius. Aliquam faucibus sit amet
-        magna a ultrices. Aenean pellentesque placerat lacus imperdiet
-        efficitur. In felis nisl, luctus non ante euismod, tincidunt bibendum
-        mi. In a molestie nisl, eu sodales diam. Nam tincidunt lacus quis magna
-        posuere, eget tristique dui dapibus. Maecenas fermentum elementum
-        faucibus. Quisque nec metus vestibulum, egestas massa eu, sollicitudin
-        ipsum. Nulla facilisi. Sed ut erat ligula. Nam tincidunt nunc in nibh
-        dictum ullamcorper. Class aptent taciti sociosqu ad litora torquent per
-        conubia nostra, per inceptos himenaeos. Etiam ornare rutrum felis at
-        rhoncus. Etiam vel condimentum magna, quis tempor nulla.
-      </p>
-      <Link to="learn" role="button" className="btn btn-link">
-        Learn More
-      </Link>
-      <Link to="contact" role="button" className="btn btn-link">
-        Learn Less
-      </Link>
-      <Routes>
-        <Route path="project" element={<Project />} />
-      </Routes>
-    </div>
+    <Container
+      className="contactMe"
+    >
+      <Row>
+        <Col className="text-center">
+          <h1>Contact Me</h1>
+          <p>
+            "Hello 👋 If you're looking for a passionate front-end developer who
+            loves to connect and collaborate, look no further.
+          </p>
+          <p>
+            Let's connect, swap some puns, and make some magic happen through
+            code!"
+          </p>
+          <Button size="lg" id="contactBtn">
+            <a id="hellobtn" href="mailto:kietla@live.co.uk">Say Hello</a>
+          </Button>{" "}
+        </Col>
+      </Row>
+    </Container>
   );
 }
+
 
 export default Contact;

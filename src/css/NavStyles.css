@@ -2,8 +2,12 @@
     align-items: center;
 }
 
+.container {
+    margin: 0;
+}
+
 #vkl:hover, .nav-item a:hover {
-    color: #ffe66d;
+    color: #3dabc7;
     text-decoration: none;
 }
 
@@ -16,4 +20,13 @@
 .navbar-dark .navbar-toggler {
     color: rgba(255,255,255,.5);
     border-color: #ffe66d!important;
+}
+
+#navToggler{
+    height:3rem;
+    border-color: white;
+}
+
+span.navbar-toggler-icon{
+    background-color: rgb(254, 246, 246)!important;
 }

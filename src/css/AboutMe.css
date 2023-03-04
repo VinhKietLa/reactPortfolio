@@ -1,0 +1,37 @@
+.about-me {
+    text-align: center;
+    border-bottom: 1px solid #343434;
+    margin-bottom: 2rem
+}
+
+.pictureofme:hover {
+    border: 2px solid #3dabc7;
+}
+
+.display-3:hover, .lead:hover {
+    color:#3dabc7;
+}
+
+ul {
+    display: flex;
+    justify-content:center;
+    align-items: center;
+}
+
+ul li {
+    text-decoration: none;
+    list-style-type: none;
+    margin: 0 1rem; /* add margin to the left and right of each list item */
+  }
+
+li #myLinks {
+    color: black;
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+#myLinks:hover {
+    color:#3dabc7;
+}
+
+

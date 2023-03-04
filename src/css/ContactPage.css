@@ -1,0 +1,26 @@
+.contactMe {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 30vh;
+}
+
+.contactMe h1:hover, .contactMe p:hover{
+    color: #3dabc7;
+}
+
+#hellobtn {
+    color: white!important;
+}
+
+
+#contactBtn{
+    background-color: #343434;
+    border-color: #f7fff7;
+    color: #f7fff7;
+    text-decoration: none;
+}
+
+#contactBtn:hover {
+    background-color: #3dabc7;
+}
