@@ -1,7 +1,7 @@
 import React from "react";
-import me from "../assets/pictureofme.png";
+import Me from "../assets/pictureofme.png";
 import Stack from "react-bootstrap/Stack";
-import AboutMeStyles from "../../css/AboutMe.css";
+import "../../css/AboutMe.css";
 
 function AboutMe() {
   return (
@@ -10,7 +10,7 @@ function AboutMe() {
         <img
           className="pictureofme img-thumbnail rounded-pill Width auto
           mx-auto"
-          src={me}
+          src={Me}
           alt="A picture of Vinh"
         />
         <div id="herocustom">
