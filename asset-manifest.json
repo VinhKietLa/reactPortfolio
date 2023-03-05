@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/reactPortfolio/static/css/main.99ce3952.css",
-    "main.js": "/reactPortfolio/static/js/main.f80dff90.js",
+    "main.css": "/reactPortfolio/static/css/main.b4b3129c.css",
+    "main.js": "/reactPortfolio/static/js/main.dabf80fb.js",
     "static/media/beltDemo.gif": "/reactPortfolio/static/media/beltDemo.9c6f9c9aa95443bf92d2.gif",
     "static/media/moodmix-demo.gif": "/reactPortfolio/static/media/moodmix-demo.d4320bbbb57d0474c024.gif",
     "static/media/newyorkDemo.gif": "/reactPortfolio/static/media/newyorkDemo.ae0c4436e9790f3b63a3.gif",
@@ -14,11 +14,11 @@
     "static/media/RobotoMono.woff2": "/reactPortfolio/static/media/RobotoMono.46629fbb7e0921bd296b.woff2",
     "static/media/quizDemo.gif": "/reactPortfolio/static/media/quizDemo.bb6fe3caa290ec420ee9.gif",
     "index.html": "/reactPortfolio/index.html",
-    "main.99ce3952.css.map": "/reactPortfolio/static/css/main.99ce3952.css.map",
-    "main.f80dff90.js.map": "/reactPortfolio/static/js/main.f80dff90.js.map"
+    "main.b4b3129c.css.map": "/reactPortfolio/static/css/main.b4b3129c.css.map",
+    "main.dabf80fb.js.map": "/reactPortfolio/static/js/main.dabf80fb.js.map"
   },
   "entrypoints": [
-    "static/css/main.99ce3952.css",
-    "static/js/main.f80dff90.js"
+    "static/css/main.b4b3129c.css",
+    "static/js/main.dabf80fb.js"
   ]
 }
