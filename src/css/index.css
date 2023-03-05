@@ -17,4 +17,18 @@
     padding: 0;
     margin: 0;  
     font-family: 'RobotoMono', Arial, Helvetica, sans-serif!important;
+
+  }
+
+.dark{
+background-color: black;
+color: white;
+}
+.light {
+background-color: white;
+color: black;
+}
+
+.myLinks {
+  color: white;
 }
