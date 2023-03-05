@@ -30,17 +30,17 @@ You will see that the website will load in a new browser tab locally.
 
 ## Tech stack
 
+- React Router Dom
 - ReactJS CreateApp
 - React-Bootstrap Front-end Framework
 
 ## Preview of application
 [Click here for a Live preview](https://vinhkietla.github.io/reactPortfolio/)
 
-![screenshot of application](./src/components/assets/screenshotofsite.png)
+![screenshot of application](./src/components/assets/reactsite.png)
 
 # Future Development
 
-- Dark Mode.
 - Confetti
 
 ## Contact
