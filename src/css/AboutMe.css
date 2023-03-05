@@ -25,7 +25,7 @@ ul li {
   }
 
 li #myLinks {
-    color: black;
+    /* color: black; */
     text-decoration: underline;
     font-weight: bold;
 }
