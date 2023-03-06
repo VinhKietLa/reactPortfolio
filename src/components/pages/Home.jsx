@@ -1,5 +1,5 @@
 import React from "react";
-import Me from "../assets/pictureofme.png";
+import Me from "../../assets/pictureofme.png";
 import Stack from "react-bootstrap/Stack";
 import "../../css/Home.css";
 
