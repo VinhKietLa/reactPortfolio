@@ -1,9 +1,9 @@
 import React from "react";
 import Me from "../assets/pictureofme.png";
 import Stack from "react-bootstrap/Stack";
-import "../../css/AboutMe.css";
+import "../../css/Home.css";
 
-function AboutMe() {
+function Home() {
   return (
     <>
       <Stack gap={3} className="col-md-5 mx-auto mt-5 text-center">
@@ -58,4 +58,4 @@ function AboutMe() {
   );
 }
 
-export default AboutMe;
+export default Home;

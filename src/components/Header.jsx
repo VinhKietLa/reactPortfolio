@@ -3,18 +3,17 @@ import { NavLink } from "react-router-dom";
 import Container from "react-bootstrap/Container";
 import Navbar from "react-bootstrap/Navbar";
 import Nav from "react-bootstrap/Nav";
-import "../css/NavStyles.css";
+import "../css/Header.css";
 
 
-function NavTabs() {
-
+function Header() {
 
   return (
     <>
       <Navbar expand="lg" className="bg-dark">
         <Container className="px-3">
           <Navbar.Brand>
-            <NavLink id="vkl" to="/reactPortfolio/" end className="nav-link-color">
+            <NavLink id="vkl" to="/" end className="nav-link-color">
               VINH_LA
             </NavLink>
           </Navbar.Brand>
@@ -23,25 +22,25 @@ function NavTabs() {
           <Container className="px-3">
           <Navbar.Collapse id="basic-navbar-nav" className="justify-content-end navbarCustom text-center">
             <Nav className="me-aut nav-item px-4">
-              <NavLink to="/reactPortfolio/" end className="nav-link-color">
+              <NavLink to="/" end className="nav-link-color">
                 HOME
               </NavLink>
               </Nav>
               <Nav className="me-aut nav-item">
-              <NavLink to="/reactPortfolio/project" end className="nav-link-color">
+              <NavLink to="/project" end className="nav-link-color">
                 PROJECTS
               </NavLink>
               </Nav>
               <Nav className="px-4 nav-item">
 
-              <NavLink to="/reactPortfolio/blog" end className="nav-link-color">
+              <NavLink to="/blog" end className="nav-link-color">
                 BLOG
               </NavLink>
               </Nav>
 
               <Nav className="me-aut nav-item">
 
-              <NavLink to="/reactPortfolio/contact" end className="nav-link-color">
+              <NavLink to="/contact" end className="nav-link-color">
                 CONTACT
               </NavLink>
             </Nav>
@@ -52,4 +51,4 @@ function NavTabs() {
   );
 }
 
-export default NavTabs;
+export default Header;
