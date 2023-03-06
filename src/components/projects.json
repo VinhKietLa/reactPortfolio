@@ -1,0 +1,69 @@
+[
+    {
+        "id:": 1,
+        "name": "MOODMIX",
+        "URL": "https://vinhkietla.github.io/MoodMix/",
+        "image": "/assets/moodmix-demo.gif",
+        "summary": "A fusion of flavours and inspiration"
+
+    },
+    {
+        "id:": 2,
+        "name": "Quiz",
+        "URL": "https://vinhkietla.github.io/Vinh-s-Master-Quiz/",
+        "image": "/assets/quizDemo.gif",
+        "summary": "A quiz with highscore table"
+    },
+    {
+        "id:": 3,
+        "name": "WeatherAPP",
+        "URL": "https://vinhkietla.github.io/VinhsWeatherApp/",
+        "image": "/assets/weatherDemo.gif",
+        "summary": "A quiz with highscore table"
+    },
+    {
+        "id:": 4,
+        "name": "Contact Form",
+        "URL": "https://vinhkietla.github.io/contactform",
+        "image": "/assets/contactDemo.gif",
+        "summary": "A visitor contact form"
+    },
+    {
+        "id:": 5,
+        "name": "Work Day Scheduler",
+        "URL": "https://vinhkietla.github.io/Vinhs-WorkDayScheduler",
+        "image": "/assets/workdaydemo.gif",
+        "summary": "Add your work tasks"
+    },
+    {
+        "id:": 6,
+        "name": "New York Times",
+        "URL": "https://vinhkietla.github.io/newYorkTimesQuery/",
+        "image": "/assets/contactDemo.gif",
+        "summary": "Search for articles New York articles using their API"
+    },
+    {
+        "id:": 7,
+        "name": "Pokemon Blackjack",
+        "URL": "https://vinhblackjack.netlify.app/",
+        "image": "/assets/pokemondemo.gif",
+        "summary": "Pokemon themed blackjack"
+    },
+    {
+        "id:": 8,
+        "name": "Weight + Height Converter",
+        "URL": "https://vinhkietla.github.io/weightheightconverter/",
+        "image": "/assets/weightdemo.gif",
+        "summary": "A metrics conversion calculator"
+    }, 
+    {
+        "id:": 8,
+        "name": "RDX Landing Pagek",
+        "URL": "https://vinhkietla.github.io/ProductLandingPage/",
+        "image": "/assets/beltdemo.gif",
+        "summary": "A page created for a weight lifting belt I use"
+    }
+
+
+
+]
