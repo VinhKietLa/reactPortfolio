@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/reactPortfolio/static/css/main.d123ab8b.css",
-    "main.js": "/reactPortfolio/static/js/main.278ca40b.js",
-    "static/media/beltDemo.gif": "/reactPortfolio/static/media/beltDemo.9c6f9c9aa95443bf92d2.gif",
-    "static/media/moodmix-demo.gif": "/reactPortfolio/static/media/moodmix-demo.d4320bbbb57d0474c024.gif",
-    "static/media/newyorkDemo.gif": "/reactPortfolio/static/media/newyorkDemo.ae0c4436e9790f3b63a3.gif",
-    "static/media/contactDemo.gif": "/reactPortfolio/static/media/contactDemo.4518bcfcaa422aba7cd2.gif",
-    "static/media/pokemonDemo.gif": "/reactPortfolio/static/media/pokemonDemo.5e58c33f9e4d3e36cf84.gif",
-    "static/media/weightDemo.gif": "/reactPortfolio/static/media/weightDemo.78acb78934a2e1e71978.gif",
-    "static/media/workdayDemo.gif": "/reactPortfolio/static/media/workdayDemo.79dea48fb15d6c5dbcde.gif",
-    "static/media/pictureofme.png": "/reactPortfolio/static/media/pictureofme.9e930ac4f8d6fff8aa76.png",
-    "static/media/weatherDemo.gif": "/reactPortfolio/static/media/weatherDemo.33de1b9d59a780466b5b.gif",
-    "static/media/RobotoMono.woff2": "/reactPortfolio/static/media/RobotoMono.46629fbb7e0921bd296b.woff2",
-    "static/media/quizDemo.gif": "/reactPortfolio/static/media/quizDemo.bb6fe3caa290ec420ee9.gif",
-    "index.html": "/reactPortfolio/index.html",
-    "main.d123ab8b.css.map": "/reactPortfolio/static/css/main.d123ab8b.css.map",
-    "main.278ca40b.js.map": "/reactPortfolio/static/js/main.278ca40b.js.map"
+    "main.css": "/static/css/main.cc95067e.css",
+    "main.js": "/static/js/main.58aafa9a.js",
+    "static/media/beltDemo.gif": "/static/media/beltDemo.9c6f9c9aa95443bf92d2.gif",
+    "static/media/moodmix-demo.gif": "/static/media/moodmix-demo.d4320bbbb57d0474c024.gif",
+    "static/media/newyorkDemo.gif": "/static/media/newyorkDemo.ae0c4436e9790f3b63a3.gif",
+    "static/media/contactDemo.gif": "/static/media/contactDemo.4518bcfcaa422aba7cd2.gif",
+    "static/media/pokemonDemo.gif": "/static/media/pokemonDemo.5e58c33f9e4d3e36cf84.gif",
+    "static/media/weightDemo.gif": "/static/media/weightDemo.78acb78934a2e1e71978.gif",
+    "static/media/workdayDemo.gif": "/static/media/workdayDemo.79dea48fb15d6c5dbcde.gif",
+    "static/media/pictureofme.png": "/static/media/pictureofme.9e930ac4f8d6fff8aa76.png",
+    "static/media/weatherDemo.gif": "/static/media/weatherDemo.33de1b9d59a780466b5b.gif",
+    "static/media/RobotoMono.woff2": "/static/media/RobotoMono.46629fbb7e0921bd296b.woff2",
+    "static/media/quizDemo.gif": "/static/media/quizDemo.bb6fe3caa290ec420ee9.gif",
+    "index.html": "/index.html",
+    "main.cc95067e.css.map": "/static/css/main.cc95067e.css.map",
+    "main.58aafa9a.js.map": "/static/js/main.58aafa9a.js.map"
   },
   "entrypoints": [
-    "static/css/main.d123ab8b.css",
-    "static/js/main.278ca40b.js"
+    "static/css/main.cc95067e.css",
+    "static/js/main.58aafa9a.js"
   ]
 }
