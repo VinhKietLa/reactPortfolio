@@ -11,14 +11,13 @@ function Home() {
           className="pictureofme img-thumbnail rounded-pill Width auto
           mx-auto"
           src={Me}
-          alt="A picture of Vinh"
+          alt="Vinh"
         />
         <div id="herocustom">
           <div className="heroHeading">
-            <h1 className="display-3">I am Vinh</h1>
+            <h1 className="display-3">Hello I'm Vinh</h1>
             <p className="lead">
-              The Supportive Developer: Aspiring Web Developer with a
-              Customer-Centric Approach 😎
+             an experienced web developer 🚀.
             </p>
           </div>
         </div>

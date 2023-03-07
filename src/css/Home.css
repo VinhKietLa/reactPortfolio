@@ -4,6 +4,11 @@
     margin-bottom: 2rem
 }
 
+.pictureofme {
+    width:15rem;
+    height:15rem;
+}
+
 .pictureofme:hover {
     border: 2px solid #3dabc7;
 }
