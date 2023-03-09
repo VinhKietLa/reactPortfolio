@@ -10,16 +10,16 @@ import "./css/index.css";
 import "./css/Footer.css"
 
 function App() {
-  const [theme, setTheme] = useState(localStorage.getItem("theme") || "light");
-  const [buttonText, setButtonText] = useState(localStorage.getItem("buttonText") || "Dark Mode");
+  const [theme, setTheme] = useState(localStorage.getItem("theme") || "Dark");
+  const [buttonText, setButtonText] = useState(localStorage.getItem("buttonText") || "Light Mode");
   
   const toggleTheme = () => {
-    if (theme === "light") {
-      setTheme("dark");
-      setButtonText("Light Mode");
-    } else {
+    if (theme === "dark") {
       setTheme("light");
       setButtonText("Dark Mode");
+    } else {
+      setTheme("dark");
+      setButtonText("Light Mode");
     }
   };
   useEffect(() => {

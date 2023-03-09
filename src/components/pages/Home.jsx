@@ -17,7 +17,7 @@ function Home() {
           <div className="heroHeading">
             <h1 className="display-3">Hello I'm Vinh</h1>
             <p className="lead">
-             an experienced web developer 🚀.
+             a Front-end developer 🚀.
             </p>
           </div>
         </div>
@@ -30,6 +30,7 @@ function Home() {
                 href="https://www.linkedin.com/in/vinhkietla"
                 target="_blank"
                 id="myLinks"
+                rel="noreferrer"
               >
                 LINKEDIN
               </a>
@@ -40,6 +41,7 @@ function Home() {
                 href="https://github.com/VinhKietLa"
                 target="_blank"
                 id="myLinks"
+                rel="noreferrer"
               >
                 GITHUB
               </a>
