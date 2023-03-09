@@ -46,12 +46,12 @@ function Home() {
                 GITHUB
               </a>
             </li>
-            <li>
+            {/* <li>
               {" "}
               <a href="" id="myLinks">
                 CV
               </a>
-            </li>
+            </li> */}
           </ul>
         </div>
       </Stack>
