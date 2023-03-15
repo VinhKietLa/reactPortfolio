@@ -45,4 +45,4 @@ You will see that the website will load in a new browser tab locally.
 
 ## Contact
 
-If you have any questions, please do not hesitate to contact me via email at kietla@live.co.uk :)
+If you have any questions, please do not hesitate to contact me via email at kietla@live.co.uk or via linkedin :)
