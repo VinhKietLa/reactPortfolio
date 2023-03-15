@@ -37,7 +37,7 @@ You will see that the website will load in a new browser tab locally.
 ## Preview of application
 [Click here for a Live preview](https://www.vinhkietla.co.uk/)
 
-![screenshot of application](./public/assets/reactsite.png)
+![screenshot of application](./public/assets/reactsiteimg.png)
 
 # Future Development
 
