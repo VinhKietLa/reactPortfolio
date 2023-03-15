@@ -3,65 +3,44 @@
         "id:": 1,
         "name": "MOODMIX",
         "URL": "https://vinhkietla.github.io/MoodMix/",
-        "image": "/assets/moodmix-demo.gif",
-        "summary": "A fusion of flavours and inspiration"
+        "summary": "A fusion of flavours and inspiration",
+        "image": "/assets/moodmix.svg"
 
     },
     {
         "id:": 2,
         "name": "Quiz",
         "URL": "https://vinhkietla.github.io/Vinh-s-Master-Quiz/",
-        "image": "/assets/quizDemo.gif",
-        "summary": "A quiz with highscore table"
+        "summary": "A quiz with highscore table",
+        "image": "/assets/quiz.svg"
     },
     {
         "id:": 3,
         "name": "WeatherAPP",
         "URL": "https://vinhkietla.github.io/VinhsWeatherApp/",
-        "image": "/assets/weatherDemo.gif",
-        "summary": "Check the weather for any city"
-    },
-    {
-        "id:": 4,
-        "name": "Contact Form",
-        "URL": "https://vinhkietla.github.io/contactform",
-        "image": "/assets/contactDemo.gif",
-        "summary": "A visitor contact form"
-    },
-    {
-        "id:": 5,
-        "name": "Work Day Scheduler",
-        "URL": "https://vinhkietla.github.io/Vinhs-WorkDayScheduler",
-        "image": "/assets/workdaydemo.gif",
-        "summary": "Add your work tasks"
+        "summary": "Check the weather for any city",
+        "image": "/assets/weather.svg"
     },
     {
         "id:": 6,
         "name": "New York Times",
         "URL": "https://vinhkietla.github.io/newYorkTimesQuery/",
-        "image": "/assets/contactDemo.gif",
-        "summary": "Search for articles New York articles using their API"
+        "summary": "Search for articles by the New York Times",
+        "image": "/assets/newyork.svg"
     },
     {
         "id:": 7,
         "name": "Pokemon Blackjack",
         "URL": "https://vinhblackjack.netlify.app/",
-        "image": "/assets/pokemondemo.gif",
-        "summary": "Pokemon themed blackjack"
+        "summary": "Pokemon themed blackjack",
+        "image": "/assets/pokemon.svg"
     },
     {
         "id:": 8,
-        "name": "Weight + Height Converter",
-        "URL": "https://vinhkietla.github.io/weightheightconverter/",
-        "image": "/assets/weightdemo.gif",
-        "summary": "A metrics conversion calculator"
-    }, 
-    {
-        "id:": 8,
-        "name": "RDX Landing Pagek",
+        "name": "RDX Landing Page",
         "URL": "https://vinhkietla.github.io/ProductLandingPage/",
-        "image": "/assets/beltdemo.gif",
-        "summary": "A page created for a weight lifting belt I use"
+        "summary": "A page created for a weight lifting belt I use",
+        "image": "/assets/belt.svg"
     }
 
 

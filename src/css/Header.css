@@ -1,3 +1,6 @@
+#navColor{
+    background-color: #161616;
+}
 .navbarCustom {
     align-items: center;
 }
@@ -6,7 +9,11 @@
     margin: 0;
 }
 
-#vkl:hover, .nav-item a:hover {
+#vkl:hover {
+    color: white;
+}
+
+.nav-item a:hover {
     color: #3dabc7;
     text-decoration: none;
 }

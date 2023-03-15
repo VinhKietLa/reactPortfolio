@@ -21,12 +21,15 @@ body {
 }
 
 #themeBtn {
-  color: white !important;
-}
-
-#themeBtn {
-  background-color: #343434;
-  border-color: #f7fff7;
+  background-color: #161616;
+  border-color: #161616;
   color: #f7fff7;
   text-decoration: none;
+  margin: 1rem;
+}
+
+
+.test {
+  width: 3px;
+  height: 3px;
 }

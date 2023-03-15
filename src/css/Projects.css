@@ -1,11 +1,15 @@
 /* My Personal projects section*/
 
+.thumbnail {
+    color:white;
+    text-decoration: none;
+}
 .card {
-    background-color: #343434!important;
+    background-color: #292828!important;
     color:white;
 }
 .cardContainer{
-    padding-top: 0.5rem;
+    padding-top: 1rem;
 }
 
 .personal-projects {
@@ -13,7 +17,6 @@
     align-items: center;
     text-align: center;
     padding-bottom: 1rem;
-    border-bottom: 1px solid #343434;
 }
 
 .contact-form {
@@ -25,19 +28,23 @@
 }
 
 .card-style {
-    padding: 1rem 0 1rem 0;
-    margin: 1rem 0 1rem 0;
+    padding: 0.5rem 0 0.5rem 0;
+    margin: 0.5rem 0 0.5rem 0;
 }
 
-.projects-icon:hover, .card:hover {
+.projects-icon:hover, .card:hover, .thumbnail:hover {
     box-shadow: 0 3px 15px #3dabc7;
     border: #3dabc7;
-    color:#3dabc7;
-}
-#my-projects:hover {
     color:#3dabc7;
 }
 
 .personal-projects {
     flex-direction: row;
 }
+
+.projects-icon {
+    width: 100%;
+    height: 100%;
+}
+
+  

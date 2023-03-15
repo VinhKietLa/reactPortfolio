@@ -7,14 +7,7 @@
 .pictureofme {
     width:15rem;
     height:15rem;
-}
-
-.pictureofme:hover {
-    border: 2px solid #3dabc7;
-}
-
-.display-3:hover, .lead:hover {
-    color:#3dabc7;
+    padding: 0;
 }
 
 ul {
@@ -29,14 +22,8 @@ ul li {
     margin: 0 1rem; /* add margin to the left and right of each list item */
   }
 
-li #myLinks {
-    /* color: black; */
-    text-decoration: underline;
-    font-weight: bold;
-}
-
-#myLinks:hover {
-    color:#3dabc7;
-}
-
-
+  .img-thumbnail {
+    /* border-radius: none!important;
+    border: none!important; */
+    padding:0!important;
+  }
