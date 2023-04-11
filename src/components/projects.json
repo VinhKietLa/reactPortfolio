@@ -1,6 +1,14 @@
 [
     {
         "id:": 1,
+        "name": "Nails Extreme",
+        "URL": "https://nails-extreme.co.uk",
+        "summary": "A freelance project for a Nail Spa in Bromley",
+        "image": "/assets/nailsextreme.svg"
+
+    },
+    {
+        "id:": 2,
         "name": "MOODMIX",
         "URL": "https://vinhkietla.github.io/MoodMix/",
         "summary": "A fusion of flavours and inspiration",
@@ -8,35 +16,35 @@
 
     },
     {
-        "id:": 2,
+        "id:": 3,
         "name": "Quiz",
         "URL": "https://vinhkietla.github.io/Vinh-s-Master-Quiz/",
         "summary": "A quiz with highscore table",
         "image": "/assets/quiz.svg"
     },
     {
-        "id:": 3,
+        "id:": 4,
         "name": "WeatherAPP",
         "URL": "https://vinhkietla.github.io/VinhsWeatherApp/",
         "summary": "Check the weather for any city",
         "image": "/assets/weather.svg"
     },
     {
-        "id:": 6,
+        "id:": 5,
         "name": "New York Times",
         "URL": "https://vinhkietla.github.io/newYorkTimesQuery/",
         "summary": "Search for articles by the New York Times",
         "image": "/assets/newyork.svg"
     },
     {
-        "id:": 7,
+        "id:": 6,
         "name": "Pokemon Blackjack",
         "URL": "https://vinhblackjack.netlify.app/",
         "summary": "Pokemon themed blackjack",
         "image": "/assets/pokemon.svg"
     },
     {
-        "id:": 8,
+        "id:": 7,
         "name": "RDX Landing Page",
         "URL": "https://vinhkietla.github.io/ProductLandingPage/",
         "summary": "A page created for a weight lifting belt I use",
