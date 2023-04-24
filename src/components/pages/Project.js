@@ -13,6 +13,7 @@ function Project() {
     </h2>
     
     <div className="personal-projects row align-items-start">
+      
       {projectList.map((item) => {
         console.log(item);
         return (
@@ -34,6 +35,8 @@ function Project() {
           </div>
         );
       })}
+
+
     </div>
     </div>
   );

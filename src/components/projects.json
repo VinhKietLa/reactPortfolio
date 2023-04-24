@@ -1,10 +1,19 @@
 [
     {
+        "id:": 18,
+        "name": "Road Ready",
+        "URL": "https://roadready.vinhkietla.co.uk",
+        "summary": "Personal project - Car subscription",
+        "image": "/assets/Projects/roadready.png"
+
+    },
+
+    {
         "id:": 1,
         "name": "Nails Extreme",
         "URL": "https://nails-extreme.co.uk",
         "summary": "A freelance project for a Nail Spa in Bromley",
-        "image": "/assets/nailsextreme.svg"
+        "image": "/assets/Projects/nails.png"
 
     },
     {
@@ -12,7 +21,7 @@
         "name": "MOODMIX",
         "URL": "https://vinhkietla.github.io/MoodMix/",
         "summary": "A fusion of flavours and inspiration",
-        "image": "/assets/moodmix.svg"
+        "image": "/assets/Projects/moodmix.png"
 
     },
     {
@@ -20,35 +29,28 @@
         "name": "Quiz",
         "URL": "https://vinhkietla.github.io/Vinh-s-Master-Quiz/",
         "summary": "A quiz with highscore table",
-        "image": "/assets/quiz.svg"
+        "image": "/assets/Projects/quiz.png"
     },
     {
         "id:": 4,
         "name": "WeatherAPP",
         "URL": "https://vinhkietla.github.io/VinhsWeatherApp/",
         "summary": "Check the weather for any city",
-        "image": "/assets/weather.svg"
-    },
-    {
-        "id:": 5,
-        "name": "New York Times",
-        "URL": "https://vinhkietla.github.io/newYorkTimesQuery/",
-        "summary": "Search for articles by the New York Times",
-        "image": "/assets/newyork.svg"
+        "image": "/assets/Projects/weather.png"
     },
     {
         "id:": 6,
         "name": "Pokemon Blackjack",
         "URL": "https://vinhblackjack.netlify.app/",
         "summary": "Pokemon themed blackjack",
-        "image": "/assets/pokemon.svg"
+        "image": "/assets/Projects/pokemon.png"
     },
     {
         "id:": 7,
         "name": "RDX Landing Page",
         "URL": "https://vinhkietla.github.io/ProductLandingPage/",
         "summary": "A page created for a weight lifting belt I use",
-        "image": "/assets/belt.svg"
+        "image": "/assets/Projects/rdx.png"
     }
 
 
